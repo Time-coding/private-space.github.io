@@ -14,7 +14,7 @@
 
 ![home图片](images/s1.jpg "Optional title")
 
-+ 资料模块是集成各个技术团队的官网，和一些名人博客
++ 资料模块是集成各个技术团队的官网、社区和一些名人博客
 
 ![资料模块图片](images/s2.jpg "Optional title")
 
